@@ -12,7 +12,20 @@ namespace TestCode
         public static void DisplayLogo()
         {
 
-            Console.WriteLine("");
+            Console.WriteLine("       C#C#C#C#C#          C#C#C#C#C#C#C#         C#C#C#C#C#C#                     C#C#C#C#");
+            Console.WriteLine("   C#C#C#C#C#C#C#C#C#         C#C#C#C#            C#C#C#C#C#C#C#                  C#C#C#C#C#");
+            Console.WriteLine("  C#C#C#        C#C#C#        C#C#C#C#            C#C#       C#C#                C#        C#");
+            Console.WriteLine(" C#C#                C#       C#C#C#C#            C#C#        C#C#              C#          C#");
+            Console.WriteLine("C#C#                          C#C#C#C#            C#C#       C#C#              C#            C#");
+            Console.WriteLine("C#C#                          C#C#C#C#            C#C#C#C#C#C#C#              C#              C#");
+            Console.WriteLine("C#C#                          C#C#C#C#            C#C#C#C#C#C#C#             C#                C#");
+            Console.WriteLine("C#C#                          C#C#C#C#            C#C#        C#C#          C#C#C#C#C#C#C#C#C#C#C#");
+            Console.WriteLine("C#C#                          C#C#C#C#            C#C#         C#C#         C#C#C#C#C#C#C#C#C#C#C#");
+            Console.WriteLine("C#C#                          C#C#C#C#            C#C#          C#C#       C#C#                C#C#");
+            Console.WriteLine(" C#C#               C#        C#C#C#C#            C#C#         C#C#       C#C#                  C#C#");
+            Console.WriteLine("  C#C#C#        C#C#C#        C#C#C#C#            C#C#        C#C#       C#C#                    C#C#");
+            Console.WriteLine("  C#C#C#C#C#C#C#C#C#C#        C#C#C#C#            C#C#C#C#C#C#          C#C#                      C#C#");
+            Console.WriteLine("      C#C#C#C#C#            C#C#C#C#C#C#          C#C#C#C#C#          C#C#C#C#                   C#C#C#C#");
         }
     }
 }
